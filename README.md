@@ -1,6 +1,6 @@
 # Bank Loan Report
 
-Explore loan trends, borrower demographics, and key metrics to optimize lending strategies with detailed visualizations and insights.
+Explore loan trends, borrower demographics, and key metrics to optimize lending strategies with detailed visualizations and insights using Power BI and SQL.
 
 ## Overview
 
@@ -54,6 +54,8 @@ This bank loan analysis provides a comprehensive understanding of loan applicati
 ![Alt text](https://github.com/shubhangidoltade/Bank-Loan-Analysis/blob/7c366a3e6bd697e92b309335e43fe4b5ba8e9b9a/Bank%20Loan%20Report%202.png)
 
 ![Alt text](https://github.com/shubhangidoltade/Bank-Loan-Analysis/blob/7c366a3e6bd697e92b309335e43fe4b5ba8e9b9a/Bank%20Loan%20Report%203.png)
+
+![Alt text](https://github.com/shubhangidoltade/Bank-Loan-Analysis/blob/1383b2c595de9bb35af8dbd2b61ab653adeac6d6/Bank%20Loan%20SQL.png)
 
 ## Overall Observation:
 
